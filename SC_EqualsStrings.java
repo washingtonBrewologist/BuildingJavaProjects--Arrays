@@ -6,8 +6,7 @@ import java.util.Arrays;
 
 public class SC_EqualsStrings {
     public static void main(String[] args){
-        String[] a ={"Ha", "Ha", "MothaFucka", "Ha", "Ha"};
-        String[] b ={"Ha", "Ha", "MothaFucka", "Ha", "Ha"};
+     
         System.out.println(equals(a, b));
 
     }
